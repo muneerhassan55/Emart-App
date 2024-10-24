@@ -87,7 +87,7 @@ flutter:
         
     - family:  sans_semibold
       fonts:
-        - asset: assets/fonts/sans_semibold.tt
+        - asset: assets/fonts/sans_semibold.ttf
 
     - family:  sans_bold
       fonts:
